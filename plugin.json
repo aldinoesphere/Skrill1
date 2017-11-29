@@ -1,7 +1,7 @@
 {
-    "name": "Skrill1",
-    "marketplaceName": {"de":"Skrill1", "en":"Skrill1"},
-    "namespace": "Skrill1",
+    "name": "Skrill",
+    "marketplaceName": {"de":"Skrill", "en":"Skrill"},
+    "namespace": "PlentySkrill",
     "type": "payment",
     "version": "1.0.0",
     "license": "OSL-3.0",

@@ -1,6 +1,6 @@
 {
     "defaultEntryPoint" : "index.html",
-    "namespace"         : "Skrill1",
+    "namespace"         : "PlentySkrill",
     "menuEntries"       : [
                             {
                                 "label": "General Settings",
